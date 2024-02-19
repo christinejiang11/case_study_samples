@@ -1,5 +1,5 @@
 ## Consulting Case Study
-SQL queries and a brief comment on logic are included in the sql file attached. Below is an ERD of the given dataset.
+SQL queries and a brief comments on logic are included in the sql file attached. Below is an ERD of the given dataset. Exercises were completed within 2-hour time window.
 <img width="590" alt="image" src="https://github.com/christinejiang11/case_study_samples/assets/56368090/529d7589-d332-4049-97d6-2b77c08559a1">
 
 ### High-Level Insights:
