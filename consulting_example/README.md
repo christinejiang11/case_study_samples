@@ -11,4 +11,4 @@ SQL queries and a brief comment on logic are included in the sql file attached. 
 - Revisit the structure of more complex queries and evaluate whether they can be more concise.
 - Deep-dive into more insights about top customers, product trends, and sales performance.
 
-[Note for students: Examples and ERD above are illustrative purposes only and do not show the final values for interview questions].
+[Note for students: Examples and ERD above are illustrative purposes only and do not show the correct values or queries for interview questions].
