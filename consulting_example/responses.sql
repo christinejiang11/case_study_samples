@@ -14,7 +14,7 @@ LIMIT 5;
 
 --Question 2: Top 2 customers who purchased product category "paper". 
 --Join orders to customers to products to match sales to product category
---Group by customer name and limit to top 5
+--Group by customer name and limit to top 2
 SELECT customer.name as customer_name, 
     SUM(sales) as sale
 FROM orders
